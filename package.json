@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "main": "src/index.js",
-  "homepage": "https://stratosfoteinopoulos.github.io/",
+  "homepage": "https://stratosfoteinopoulos.github.io/3dResumeSite",
   "dependencies": {
     "-": "0.0.1",
     "@splinetool/react-spline": "^2.2.1",
